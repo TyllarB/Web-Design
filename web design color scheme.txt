@@ -1,0 +1,13 @@
+Web Design:
+
+Colour Scheme
+----------------------------------------------------
+background-color: #83C9F4; Light sky blue
+
+background Reading colour and secondary text: #FFFFFF; white
+
+Text color:black;#000000
+
+Main colour #6c94b4 
+
+hover colour/ selection color: #4c6880
